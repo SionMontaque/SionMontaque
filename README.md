@@ -37,6 +37,14 @@
 
 ---
 
+### 🧭 Current Learning Journey
+- Deepening Linux & Network Fundamentals  
+- Studying for CompTIA Security+  
+- Building cybersecurity automation scripts in Python  
+- Exploring ethical hacking via TryHackMe
+
+---
+
 ### 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/sion-montaque-7aa4a2374" target="_blank">
