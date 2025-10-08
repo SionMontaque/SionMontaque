@@ -1,4 +1,4 @@
-# 🔒 Sion Montaque — Cybersecurity Student | University of Kent
+# Sion Montaque — Cybersecurity Student | University of Kent
 
 🎓 BSc Computer Science (Cybersecurity with Year in Industry) 
 🔒 Passionate about Digital Security, Privacy, and AI Automation  
