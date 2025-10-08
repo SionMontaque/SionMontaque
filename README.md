@@ -30,6 +30,5 @@
 ---
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com/in/sionmontaque)  
-[Notion Portfolio](https://notion.so/sioncyberportfolio)  
+[LinkedIn](www.linkedin.com/in/sion-montaque-7aa4a2374)  
 [Email](mailto:sionmontaque@gmail.com)
