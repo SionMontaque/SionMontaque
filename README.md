@@ -53,3 +53,8 @@
 <a href="mailto:sionmontaque@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
+
+---
+
+### 🔐 Professional Ethics
+All security-related projects are conducted on authorized systems and for educational purposes only.
