@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Sion
+# 🔒 Sion Montaque — Cybersecurity Student | University of Kent
 
-🎓 Computer Science (Cybersecurity with Year in Industry) @ University of Kent  
+🎓 BSc Computer Science (Cybersecurity with Year in Industry) 
 🔒 Passionate about Digital Security, Privacy, and AI Automation  
 ⚙️ Building projects that combine **Cybersecurity x Systems Thinking x AI**
 
