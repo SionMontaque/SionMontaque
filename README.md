@@ -42,11 +42,3 @@ Secure Year-in-Industry placement in Cybersecurity / AI
 <a href="mailto:sionmontaque@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-
----
-
-### 🧠 Fun Fact
-
-I treat discipline like a system — every repo here represents consistent learning and applied skill.
-
-“Secure systems. Smart automation. Real impact.”
