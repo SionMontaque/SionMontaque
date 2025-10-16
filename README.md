@@ -1,47 +1,36 @@
-# Cybersecurity Portfolio | Sion Montaque
+# 👋🏾 Hey, I’m Sion
 
-🎓 BSc Computer Science (Cybersecurity with Year in Industry) 
-🔒 Passionate about Digital Security, Privacy, and AI Automation  
-⚙️ Building projects that combine **Cybersecurity x Systems Thinking x AI**
+I’m a Computer Science (Cybersecurity with a Year in Industry) student at the University of Kent, passionate about designing secure intelligent systems that combine Cybersecurity, Artificial Intelligence, and Automation.
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### 🧠 What I’m Working On
 
----
+🧩 Wireshark Traffic Analyzer → Python tool that automates detection of network scan patterns.
 
-### 🧠 Focus Areas
-- Network Security & Wireshark Labs  
-- Python Security Automation  
-- CTFs & Real-World Threat Simulations  
-- Digital Privacy and Secure Systems
+🔐 Password Strength Checker → CLI tool using the Have I Been Pwned API for breach validation.
+
+🧱 Linux Security Lab Setup → Virtual enterprise lab for firewall and patch automation.
+
+⚙️ Cyber Learning Tracker → Notion + Zapier dashboard automating learning + certification progress.
 
 ---
 
 ### 🧰 Tech Stack
-`Python` · `Wireshark` · `Linux` · `Bash` · `Burp Suite` · `Git`
+
+Languages: Python, Bash, Java, SQL
+Tools: Linux (Ubuntu & Kali), Wireshark, Nmap, Burp Suite, Git, VirtualBox
+Concepts: Network Security, SOC Analysis, Automation, Machine Learning Fundamentals
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [Network Security Lab](./network-security-lab) | Packet analysis with Wireshark | Wireshark, Tcpdump |
-| [Python Security Tools](./python-security-tools) | Scripts for scanning & checking hashes | Python |
-| [CTF Writeups](./ctf-writeups) | Step-by-step TryHackMe reports | Markdown |
-| [Bash Automation](./bash-automation-scripts) | Scripts for log cleanup & monitoring | Bash, Linux |
+### 🧩 Current Goals
 
----
+Complete CompTIA Security+ (May 2025)
 
-### 🧭 Current Learning Journey
-- Deepening Linux & Network Fundamentals  
-- Studying for CompTIA Security+  
-- Building cybersecurity automation scripts in Python  
-- Exploring ethical hacking via TryHackMe
+Build AI-driven intrusion detection project
+
+Secure Year-in-Industry placement in Cybersecurity / AI
 
 ---
 
@@ -56,5 +45,8 @@
 
 ---
 
-### 🔐 Professional Ethics
-All security-related projects are conducted on authorized systems and for educational purposes only.
+### 🧠 Fun Fact
+
+I treat discipline like a system — every repo here represents consistent learning and applied skill.
+
+“Secure systems. Smart automation. Real impact.”
