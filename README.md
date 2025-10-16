@@ -26,7 +26,7 @@ Concepts: Network Security, SOC Analysis, Automation, Machine Learning Fundament
 
 ### 🧩 Current Goals
 
-Complete CompTIA Security+ (May 2025)
+Complete CompTIA Security+
 
 Build AI-driven intrusion detection project
 
