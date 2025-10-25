@@ -4,7 +4,6 @@
 
 I’m a Computer Science (Cybersecurity with a Year in Industry) student at the University of Kent, passionate about designing secure intelligent systems that combine Cybersecurity, Artificial Intelligence, and Data Science.
 
----
 
 ## Completed Projects
 
@@ -20,7 +19,6 @@ A full analytics solution built to simulate manufacturing KPIs in superconductin
 Repo: https://github.com/SionMontaque/MagnetProductionAnalytics  
 Tools: Python, Pandas, Scikit-learn, PowerBI
 
----
 
 ## Projects In Progress
 
@@ -32,7 +30,6 @@ Tools: Python, Pandas, Scikit-learn, PowerBI
 
 - Cyber Learning Tracker: Notion + Zapier dashboard automating learning + certification progress.
 
----
 
 ## Current Goals
 
@@ -42,7 +39,6 @@ Tools: Python, Pandas, Scikit-learn, PowerBI
 
 - Secure Year-in-Industry placement in Cybersecurity / AI / Data Science
 
----
 
 ## Connect With Me
 
