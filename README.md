@@ -16,14 +16,6 @@ I’m a Computer Science (Cybersecurity with a Year in Industry) student at the 
 
 ---
 
-### Tool Stack
-
-Languages: Python, Bash, Java, SQL
-Tools: Linux (Ubuntu & Kali), Wireshark, Nmap, Burp Suite, Git, VirtualBox
-Concepts: Network Security, SOC Analysis, Automation, Machine Learning Fundamentals
-
----
-
 ### Current Goals
 
 Complete CompTIA Security+
