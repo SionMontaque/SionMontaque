@@ -1,5 +1,7 @@
 # Portfolio
 
+### About Me
+
 I’m a Computer Science (Cybersecurity with a Year in Industry) student at the University of Kent, passionate about designing secure intelligent systems that combine Cybersecurity, Artificial Intelligence, and Automation.
 
 ---
