@@ -2,7 +2,8 @@
 
 ## About Me
 
-I’m a Computer Science (Cybersecurity with a Year in Industry) student at the University of Kent, passionate about designing secure intelligent systems that combine Cybersecurity, Artificial Intelligence, and Data Science.
+I’m a Computer Science (Cybersecurity) with a Year in Industry student at the University of Kent. 
+Focused on builing a career in Cybersecurity, Artificial Intelligence, or Data Science.
 
 
 ## Completed Projects
@@ -10,10 +11,10 @@ I’m a Computer Science (Cybersecurity with a Year in Industry) student at the 
 ### **Magnet Production Analytics — Data Science Case Study (2025)**
 A full analytics solution built to simulate manufacturing KPIs in superconducting magnet production:
 
-- Analysed **300+ operational data points** to identify bottlenecks  
-- Built **KPI features** (completion, defect, downtime rates)  
-- Designed a **linear regression model** predicting throughput performance  
-- Delivered a **PowerBI dashboard** for operational decision-support  
+- Analysed 300+ operational data points to identify bottlenecks  
+- Built KPI features (completion, defect, downtime rates)  
+- Designed a linear regression model predicting throughput performance  
+- Delivered a PowerBI dashboard for operational decision-support  
 - Inspired by Siemens Healthineers Magnet Technology and their commitment to making MRI more accessible worldwide
 
 Repo: https://github.com/SionMontaque/MagnetProductionAnalytics  
