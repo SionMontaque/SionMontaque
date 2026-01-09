@@ -2,13 +2,13 @@
 
 ## About Me
 
-I’m a Computer Science (Cybersecurity) with a Year in Industry student at the University of Kent. 
-Focused on builing a career in Cybersecurity, Artificial Intelligence, or Data Science.
+I’m a Computer Science (Cyber Security) with Year in Industry student at the University of Kent. 
+Focused on building systems that improve security, visibility, and decision-making.
 
 
 ## Completed Projects
 
-### **Magnet Production Analytics — Data Science Case Study (2025)**
+### **Magnet Production Analytics — Case Study (2025)**
 A full analytics solution built to simulate manufacturing KPIs in superconducting magnet production:
 
 - Analysed 300+ operational data points to identify bottlenecks  
@@ -18,27 +18,6 @@ A full analytics solution built to simulate manufacturing KPIs in superconductin
 - Inspired by Siemens Healthineers Magnet Technology and their commitment to making MRI more accessible worldwide
 
 Repo: https://github.com/SionMontaque/MagnetProductionAnalytics  
-Tools: Python, Pandas, Scikit-learn, PowerBI
-
-
-## Projects In Progress
-
-- Wireshark Traffic Analyzer: Python tool that automates detection of network scan patterns.
-
-- Password Strength Checker: CLI tool using the Have I Been Pwned API for breach validation.
-
-- Linux Security Lab Setup: Virtual enterprise lab for firewall and patch automation.
-
-- Cyber Learning Tracker: Notion + Zapier dashboard automating learning + certification progress.
-
-
-## Current Goals
-
-- Complete CompTIA Security+
-
-- Build additional real-world analytics case studies
-
-- Secure Year-in-Industry placement in Cybersecurity / AI / Data Science
 
 
 ## Connect With Me
