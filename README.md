@@ -1,13 +1,4 @@
-# Portfolio
-
-## About Me
-
-I’m a Computer Science (Cyber Security) with Year in Industry student at the University of Kent. 
-Focused on building systems that improve security, visibility, and decision-making.
-
----
-
-## Completed Projects
+# Completed Projects
 
 ### **Magnet Production Throughput Analytics**
 A full analytics solution built to simulate manufacturing KPIs in superconducting magnet production:
@@ -18,7 +9,18 @@ A full analytics solution built to simulate manufacturing KPIs in superconductin
 - Delivered a PowerBI dashboard for operational decision-support  
 - Inspired by Siemens Healthineers Magnet Technology and their commitment to making MRI more accessible worldwide
 
-Project Repository: <a href ="https://github.com/SionMontaque/magnet-analytics">magnet-analytics</a>
+Project Repository: <a href ="https://github.com/SionMontaque/magnet-production-analytics">magnet-production-analytics</a>
+
+### **System Health Check Automation Tool**
+A Python automation tool built to collect system health metrics and generate structured reports for routine troubleshooting and monitoring:
+
+- Collected key system metrics including CPU usage, memory usage, disk utilisation and system uptime
+- Implemented modular Python functions for maintainable system checks and diagnostics
+- Generated timestamped system health reports automatically for monitoring and troubleshooting
+- Structured the project with clean code organisation and version control using GitHub
+- Designed as a lightweight internal-style tool to automate routine system verification
+
+Project Repository: <a href ="https://github.com/SionMontaque/system-health-check-tool">system-health-check</a>
 
 ---
 
