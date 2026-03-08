@@ -9,7 +9,7 @@ Focused on building systems that improve security, visibility, and decision-maki
 
 ## Completed Projects
 
-### **Magnet Production Analytics — Case Study**
+### **Magnet Production Throughput Analytics**
 A full analytics solution built to simulate manufacturing KPIs in superconducting magnet production:
 
 - Analysed 300+ operational data points to identify bottlenecks  
@@ -18,7 +18,7 @@ A full analytics solution built to simulate manufacturing KPIs in superconductin
 - Delivered a PowerBI dashboard for operational decision-support  
 - Inspired by Siemens Healthineers Magnet Technology and their commitment to making MRI more accessible worldwide
 
-Project Repository: <a href ="https://github.com/SionMontaque/MagnetProductionAnalytics">magnet-production-analytics</a>
+Project Repository: <a href ="https://github.com/SionMontaque/magnet-analytics">magnet-analytics</a>
 
 ---
 
