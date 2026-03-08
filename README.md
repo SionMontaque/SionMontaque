@@ -1,14 +1,17 @@
 # Portfolio
 
+---
+
 ## About Me
 
 I’m a Computer Science (Cyber Security) with Year in Industry student at the University of Kent. 
 Focused on building systems that improve security, visibility, and decision-making.
 
+---
 
 ## Completed Projects
 
-### **Magnet Production Analytics — Case Study (2025)**
+### **Magnet Production Analytics — Case Study**
 A full analytics solution built to simulate manufacturing KPIs in superconducting magnet production:
 
 - Analysed 300+ operational data points to identify bottlenecks  
@@ -17,8 +20,9 @@ A full analytics solution built to simulate manufacturing KPIs in superconductin
 - Delivered a PowerBI dashboard for operational decision-support  
 - Inspired by Siemens Healthineers Magnet Technology and their commitment to making MRI more accessible worldwide
 
-Repo: https://github.com/SionMontaque/MagnetProductionAnalytics  
+Project Repository: <a href ="magnet-production-analytics" target="https://github.com/SionMontaque/MagnetProductionAnalytics"> </a>
 
+---
 
 ## Connect With Me
 
