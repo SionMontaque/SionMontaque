@@ -20,7 +20,7 @@ A Python automation tool built to collect system health metrics and generate str
 - Structured the project with clean code organisation and version control using GitHub
 - Designed as a lightweight internal-style tool to automate routine system verification
 
-Project Repository: <a href ="https://github.com/SionMontaque/system-health-check-tool">system-health-check</a>
+Project Repository: <a href ="https://github.com/SionMontaque/system-health-check-tool">system-health-check-tool</a>
 
 ---
 
