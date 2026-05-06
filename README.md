@@ -1,35 +1,32 @@
 # Completed Projects
 
 ### **Magnet Production Throughput Analytics**
-A full analytics solution built to simulate manufacturing KPIs in superconducting magnet production:
+A Power BI analytics dashboard built to identify key manufacturing KPI features such as completion, defect and downtime rates to support operational decision-making in magnet production:
 
-- Analysed 300+ operational data points to identify bottlenecks  
-- Built KPI features (completion, defect, downtime rates)  
-- Designed a linear regression model predicting throughput performance  
-- Delivered a PowerBI dashboard for operational decision-support  
-- Inspired by Siemens Healthineers Magnet Technology and their commitment to making MRI more accessible worldwide
+- Cleaned, transformed, and modelled 300+ data points using Python and SQL.
+- Engineered KPI logic for completion, downtime, and defect rate.
+- Delivered Power BI dashboard translating technical work into business outcomes.
+- Maintained GitHub version control with clear technical documentation throughout.
 
 Project Repository: <a href ="https://github.com/SionMontaque/magnet-production-analytics">magnet-production-analytics</a>
 
 ### **System Health Check Automation Tool**
 A Python automation tool built to collect system health metrics and generate structured reports for routine troubleshooting and monitoring:
 
-- Collected key system metrics including CPU usage, memory usage, disk utilisation and system uptime
-- Implemented modular Python functions for maintainable system checks and diagnostics
-- Generated timestamped system health reports automatically for monitoring and troubleshooting
-- Structured the project with clean code organisation and version control using GitHub
-- Designed as a lightweight internal-style tool to automate routine system verification
+- Built a Python automation tool generating structured system health and diagnostic reports.
+- Automated CPU, memory, disk, and uptime monitoring using modular Python functions.
+- Implemented timestamped report generation to support routine troubleshooting and system verification.
+- Documented setup, usage, and outputs in GitHub using structured version-controlled workflows.
 
 Project Repository: <a href ="https://github.com/SionMontaque/system-health-check-tool">system-health-check-tool</a>
 
 ### **Operational Services Analytics Dashboard**
-A Power BI analytics dashboard built to analyse operational crematorium service data to support performance monitoring and operational decision making:
+A Power BI analytics dashboard built to identify key manufacturing KPI features such as completion, defect and downtime rates to support operational decision-making in magnet production:
 
-- Analysed operational service trends across multiple years using structured service data
-- Performed data cleansing, transformation and exploratory analysis using Power BI
-- Visualised funeral director activity, peak service times and service demand patterns
-- Built stakeholder-focused dashboard views to support operational reporting and resource planning
-- Presented insights on service concentration, chapel usage and weekly demand behaviour
+- Cleaned, transformed, and modelled 300+ data points using Python and SQL.
+- Engineered KPI logic for completion, downtime, and defect rate.
+- Delivered Power BI dashboard translating technical work into business outcomes.
+- Maintained GitHub version control with clear technical documentation throughout.
 
 Project Repository: <a href ="https://github.com/SionMontaque/operational-services-analytics-dashboard">operational-services-analytics-dashboard</a>
 
