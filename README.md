@@ -21,12 +21,12 @@ A Python automation tool built to collect system health metrics and generate str
 Project Repository: <a href ="https://github.com/SionMontaque/system-health-check-tool">system-health-check-tool</a>
 
 ### **Operational Services Analytics Dashboard**
-A Power BI analytics dashboard built to identify key manufacturing KPI features such as completion, defect and downtime rates to support operational decision-making in magnet production:
+A Power BI analytics dashboard built to analyse operational service data to support performance monitoring and operational decision making:
 
-- Cleaned, transformed, and modelled 300+ data points using Python and SQL.
-- Engineered KPI logic for completion, downtime, and defect rate.
-- Delivered Power BI dashboard translating technical work into business outcomes.
-- Maintained GitHub version control with clear technical documentation throughout.
+- Analysed operational service trends using structured datasets and Power BI dashboards.
+- Cleaned and transformed service data to improve reporting accuracy and consistency.
+- Visualised demand patterns to support operational planning and stakeholder decision-making.
+- Presented analytical findings clearly for non-technical stakeholders through structured dashboard reporting.
 
 Project Repository: <a href ="https://github.com/SionMontaque/operational-services-analytics-dashboard">operational-services-analytics-dashboard</a>
 
