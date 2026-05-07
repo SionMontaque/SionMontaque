@@ -28,7 +28,7 @@ A backend payment monitoring system built to simulate transaction processing, fr
 - Built operational monitoring metrics and automated CSV reporting functionality.
 - Containerised backend application using Docker and validated endpoints through Pytest.
 
-Project Repository: <a href ="https://github.com/SionMontaque/payment-monitoring-system">payment--monitoring-system</a>
+Project Repository: <a href ="https://github.com/SionMontaque/payment-monitoring-system">payment-monitoring-system</a>
 
 ### **System Health Check Automation Tool**
 A Python automation tool built to collect system health metrics and generate structured reports for routine troubleshooting and monitoring:
