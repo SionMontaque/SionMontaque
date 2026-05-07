@@ -20,15 +20,15 @@ A Power BI analytics dashboard built to analyse operational service data to supp
 
 Project Repository: <a href ="https://github.com/SionMontaque/operational-services-analytics-dashboard">operational-services-analytics-dashboard</a>
 
-### **Payment Transaction Monitoring System**
-A backend payment transaction monitoring system built to simulate transaction processing, fraud detection and operational monitoring workflows used in fintech platforms:
+### **Payment Monitoring System**
+A backend payment monitoring system built to simulate transaction processing, fraud detection and operational monitoring workflows used in fintech platforms:
 
 - Developed REST API payment backend using Python, Flask and SQLAlchemy.
 - Implemented fraud detection rules identifying suspicious transaction activity patterns.
 - Built operational monitoring metrics and automated CSV reporting functionality.
 - Containerised backend application using Docker and validated endpoints through Pytest.
 
-Project Repository: <a href ="https://github.com/SionMontaque/payment-transaction-monitoring-system">payment-transaction-monitoring-system</a>
+Project Repository: <a href ="https://github.com/SionMontaque/payment-monitoring-system">payment--monitoring-system</a>
 
 ### **System Health Check Automation Tool**
 A Python automation tool built to collect system health metrics and generate structured reports for routine troubleshooting and monitoring:
